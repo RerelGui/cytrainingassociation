@@ -147,9 +147,9 @@
                         <img src="../images/jérémy.png" alt="Jérémy" style="width:100%">
                         <div class="container">
                             <h4 class="center description">Jérémy G.-B.</h4>
-                            <p class="opacity description">Président</p>
-                            <p class="description">Auditeur-Conseil en Organisationnel</p>
-                            <p><button class="button light-grey block"><i class="fa fa-envelope"></i> Contact</button></p>
+                            <p class="opacity description">Président de la CY Training Association</p>
+                            <p class="description">Président 2021-2022 de CY Junior Engineering</p>
+                            <p class="description">Auditeur-Conseil en Organisationnel à la CNJE</p>
                             <div class="linkedin">
                                 <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-groguelin-besnard-54022a205/"><img src="../images/linkedin.png" style="display: block;margin-left: auto;margin-right: auto; margin-bottom: 8px;"></a>
                             </div>
@@ -161,9 +161,9 @@
                         <img src="../images/margaux.png" alt="Margaux" style="width:100%">
                         <div class="container">
                             <h4 class="center description">Margaux G.</h4>
-                            <p class="opacity description">Secrétaire Générale</p>
-                            <p class="description">Auditeur-Conseil en Organisationnel</p>
-                            <p><button class="button light-grey block"><i class="fa fa-envelope"></i> Contact</button></p>
+                            <p class="opacity description">Secrétaire Générale de la CY Training Association</p>
+                            <p class="description">Secrétaire Générale 2021-2022 de CY Junior Engineering</p>
+                            <p class="description">Auditrice-Conseil en Organisationnel à la CNJE</p>
                             <div class="linkedin">
                                 <a href="https://www.linkedin.com/in/margaux-gonti%C3%A9-933531201/"><img src="../images/linkedin.png" style="display: block;margin-left: auto;margin-right: auto; margin-bottom: 8px;"></a>
                             </div>
@@ -175,9 +175,9 @@
                         <img src="../images/aurel.png" alt="Aurélien" style="width:100%">
                         <div class="container">
                             <h4 class="center description">Aurélien G.</h4>
-                            <p class="opacity description">Trésorier</p>
-                            <p class="description">Auditeur-Conseil en Trésorerie</p>
-                            <p><button class="button light-grey block"><i class="fa fa-envelope"></i> Contact</button></p>
+                            <p class="opacity description">Trésorier de la CY Training Association</p>
+                            <p class="description">Vice-Trésorier 2021-2022 de CY Junior Engineering</p>
+                            <p class="description">Auditeur-Conseil en Trésorerie à la CNJE</p>
                             <div class="linkedin">
                                 <a href="https://www.linkedin.com/in/aur%C3%A9lien-guimont-8a13081bb/"><img src="../images/linkedin.png" style="display: block;margin-left: auto;margin-right: auto; margin-bottom: 8px;"></a>
                             </div>
