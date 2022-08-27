@@ -48,10 +48,10 @@
                 <a href="#home" class="bar-item button wide">CY Training Association</a>
                 <!-- Liens vers les parties du site à droite -->
                 <div class="right hide-small">
-                    <a href="#about" class="bar-item button">A PROPOS</a>
-                    <a href="#team" class="bar-item button"><i class="fa fa-user"></i> EQUIPE</a>
-                    <a href="#work" class="bar-item button"><i class="fa fa-th"></i> PROJET</a>
-                    <a href="#contact" class="bar-item button"><i class="fa fa-envelope"></i> CONTACT</a>
+                    <a href="#about" class="bar-item button text-green">A PROPOS</a>
+                    <a href="#team" class="bar-item button text-green"><i class="fa fa-user"></i> EQUIPE</a>
+                    <a href="#work" class="bar-item button text-green"><i class="fa fa-th"></i> PROJET</a>
+                    <a href="#contact" class="bar-item button text-green"><i class="fa fa-envelope"></i> CONTACT</a>
                 </div>
                 <!-- Icone si on est sur un petit écran -->
 
@@ -92,7 +92,7 @@
 
         <!-- Section "à propos" -->
         <div class="container" style="padding:128px 16px" id="about">
-            <h3 class="center">A PROPOS DE NOTRE ASSOCIATION</h3>
+            <h2 class="center text-green">A PROPOS DE NOTRE ASSOCIATION</h2>
             <p class="center large">Ce qui nous caractérise</p>
             <div class="row-padding center" style="margin-top:64px">
                 <div class="third">
@@ -117,7 +117,7 @@
         <div class="container light-grey" style="padding:128px 16px" id="work">
             <div class="row-padding">
                 <div class="col m5">
-                    <h3>Où nous trouver ?</h3>
+                    <h2 class=" text-green">OÙ NOUS TROUVER ?</h2>
                     <p>Nous sommes situés au plus près des élèves de dernière année au sein du bâtiment Saint-Martin de CY Cergy Paris Université. Nous intervenons également sur les autres sites où est implanté CY Tech :</p>
                     </p>    Le site du Parc</p>
                     </p>    Le site de Fermat</p>
@@ -139,7 +139,7 @@
 
 
         <div class="container" style="padding-top:120px; padding-right:16px; padding-left:16px" id="team">
-            <h3 class="center">L'équipe</h3>
+            <h2 class="center text-green">NOTRE EQUIPE</h2>
             <p class="center large">Les dirigeants de l'association</p>
             <div class="row-padding " style="margin-top:64px">
                 <div class="col l4 m6 margin-bottom">
@@ -189,7 +189,7 @@
 
         <!-- Nos stats -->
         <div class="container row center dark-grey padding-64">
-            <h3 class="center" style="padding-bottom: 50px;">ILS NOUS FONT CONFIANCE</h3>
+            <h2 class="center text-green" style="padding-bottom: 50px;">ILS NOUS FONT CONFIANCE</h2>
             <div class="third">
                 <img src="../images/cytech.png" style="height: 310px;width:310">
             </div>
@@ -213,10 +213,10 @@
 
         <!-- Contact Section -->
         <div class="container light-grey" style="padding:128px 16px" id="contact">
-            <h3 class="center">Nous contacter</h3>
+            <h2 class="center text-green">NOUS CONTACTER</h2>
             <p class="center large">Restons en contact, envoyez-nous un message :</p>
             <div style="margin-top:48px">
-                <p><i class="fa fa-map-marker fa-fw xxlarge margin-right"></i> 95000, Cergy</p>
+                <p><i class="fa fa-map-marker fa-fw xxlarge margin-right"></i> Adresse: 2 Av. Adolphe Chauvin, CY Tech, 95300 Pontoise</p>
                 <p><i class="fa fa-phone fa-fw xxlarge margin-right"></i> Téléphone: 06.52.57.19.95</p>
                 <p><i class="fa fa-envelope fa-fw xxlarge margin-right"> </i> Email: </p>
                 <br>
