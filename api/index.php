@@ -147,7 +147,7 @@
                         <img src="../images/jérémy.png" alt="Jérémy" style="width:100%">
                         <div class="container">
                             <h4 class="center description">Jérémy G.-B.</h4>
-                            <p class="opacity description">Président de la CY Training Association</p>
+                            <p class="opacity description" style="font-size:18px;font-weight:bold">Président de la CY Training Association</p>
                             <p class="description">Président 2021-2022 de CY Junior Engineering</p>
                             <p class="description">Auditeur-Conseil en Organisationnel à la CNJE</p>
                             <div class="linkedin">
@@ -161,7 +161,7 @@
                         <img src="../images/margaux.png" alt="Margaux" style="width:100%">
                         <div class="container">
                             <h4 class="center description">Margaux G.</h4>
-                            <p class="opacity description">Secrétaire Générale de la CY Training Association</p>
+                            <p class="opacity description" style="font-size:18px;font-weight:bold">Secrétaire Générale de la CY Training Association</p>
                             <p class="description">Secrétaire Générale 2021-2022 de CY Junior Engineering</p>
                             <p class="description">Auditrice-Conseil en Organisationnel à la CNJE</p>
                             <div class="linkedin">
@@ -175,7 +175,7 @@
                         <img src="../images/aurel.png" alt="Aurélien" style="width:100%">
                         <div class="container">
                             <h4 class="center description">Aurélien G.</h4>
-                            <p class="opacity description">Trésorier de la CY Training Association</p>
+                            <p class="opacity description" style="font-size:18px;font-weight:bold">Trésorier de la CY Training Association</p>
                             <p class="description">Vice-Trésorier 2021-2022 de CY Junior Engineering</p>
                             <p class="description">Auditeur-Conseil en Trésorerie à la CNJE</p>
                             <div class="linkedin">
