@@ -75,7 +75,6 @@
         <header class="bgimg-1 display-container" id="home">
             <div class="display-left text-white" style="padding:48px;padding-top:80px">
                 <span class="jumbo hide-small">Votre formation, notre mission !</span><br>
-                <span class="xxlarge hide-large hide-medium">Le sport à portée de doigts !</span><br>
                 <h3>Notre mission :</h3>
                 <h3>Former les étudiants de CY Tech sur des thématiques transverses au monde de l’entreprise !</h3><br><br>
                 <div class="col m5 hide-small hide-medium" style="margin-right:1000px; margin-bottom:50px">
@@ -92,7 +91,7 @@
 
         <!-- Section "à propos" -->
         <div class="container" style="padding:128px 16px" id="about">
-            <h2 class="center text-green">A PROPOS DE NOTRE ASSOCIATION</h2>
+            <h1 class="center text-green" style="font-weight:bold">A PROPOS DE NOTRE ASSOCIATION</h1>
             <p class="center large">Ce qui nous caractérise</p>
             <div class="row-padding center" style="margin-top:64px">
                 <div class="third">
@@ -117,7 +116,7 @@
         <div class="container light-grey" style="padding:128px 16px" id="work">
             <div class="row-padding">
                 <div class="col m5">
-                    <h2 class=" text-green">OÙ NOUS TROUVER ?</h2>
+                    <h1 class=" text-green" style="font-weight:bold">OÙ NOUS TROUVER ?</h1>
                     <p>Nous sommes situés au plus près des élèves de dernière année au sein du bâtiment Saint-Martin de CY Cergy Paris Université. Nous intervenons également sur les autres sites où est implanté CY Tech :</p>
                     </p>    Le site du Parc</p>
                     </p>    Le site de Fermat</p>
@@ -139,7 +138,7 @@
 
 
         <div class="container" style="padding-top:120px; padding-right:16px; padding-left:16px" id="team">
-            <h2 class="center text-green">NOTRE EQUIPE</h2>
+            <h1 class="center text-green" style="font-weight:bold">NOTRE EQUIPE</h1>
             <p class="center large">Les dirigeants de l'association</p>
             <div class="row-padding " style="margin-top:64px">
                 <div class="col l4 m6 margin-bottom">
@@ -189,7 +188,7 @@
 
         <!-- Nos stats -->
         <div class="container row center dark-grey padding-64">
-            <h2 class="center text-green" style="padding-bottom: 50px;">ILS NOUS FONT CONFIANCE</h2>
+            <h1 class="center" style="padding-bottom: 50px;font-weight:bold">ILS NOUS FONT CONFIANCE</h1>
             <div class="third">
                 <img src="../images/cytech.png" style="height: 310px;width:310">
             </div>
@@ -213,7 +212,7 @@
 
         <!-- Contact Section -->
         <div class="container light-grey" style="padding:128px 16px" id="contact">
-            <h2 class="center text-green">NOUS CONTACTER</h2>
+            <h1 class="center text-green" style="font-weight:bold">NOUS CONTACTER</h1>
             <p class="center large">Restons en contact, envoyez-nous un message :</p>
             <div style="margin-top:48px">
                 <p><i class="fa fa-map-marker fa-fw xxlarge margin-right"></i> Adresse: 2 Av. Adolphe Chauvin, CY Tech, 95300 Pontoise</p>
