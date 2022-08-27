@@ -139,7 +139,7 @@
 
         <div class="container" style="padding-top:120px; padding-right:16px; padding-left:16px" id="team">
             <h1 class="center text-green" style="font-weight:bold">NOTRE EQUIPE</h1>
-            <p class="center large text-teal">Les dirigeants de l'association</p>
+            <p class="center large text-teal">Les formateurs et dirigeants de la CY Training Association</p>
             <div class="row-padding " style="margin-top:64px">
                 <div class="col l4 m6 margin-bottom">
                     <div class="card">
