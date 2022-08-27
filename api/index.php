@@ -92,7 +92,7 @@
         <!-- Section "à propos" -->
         <div class="container" style="padding:128px 16px" id="about">
             <h1 class="center text-green" style="font-weight:bold">A PROPOS DE NOTRE ASSOCIATION</h1>
-            <p class="center large">Ce qui nous caractérise</p>
+            <p class="center large text-teal">Ce qui nous caractérise</p>
             <div class="row-padding center" style="margin-top:64px">
                 <div class="third">
                     <i class="fa fa-people-carry-box margin-bottom jumbo text-green"></i>
@@ -139,7 +139,7 @@
 
         <div class="container" style="padding-top:120px; padding-right:16px; padding-left:16px" id="team">
             <h1 class="center text-green" style="font-weight:bold">NOTRE EQUIPE</h1>
-            <p class="center large">Les dirigeants de l'association</p>
+            <p class="center large text-teal">Les dirigeants de l'association</p>
             <div class="row-padding " style="margin-top:64px">
                 <div class="col l4 m6 margin-bottom">
                     <div class="card">
@@ -213,7 +213,7 @@
         <!-- Contact Section -->
         <div class="container light-grey" style="padding:128px 16px" id="contact">
             <h1 class="center text-green" style="font-weight:bold">NOUS CONTACTER</h1>
-            <p class="center large">Restons en contact, envoyez-nous un message :</p>
+            <p class="center large text-teal">Restons en contact, envoyez-nous un message :</p>
             <div style="margin-top:48px">
                 <p><i class="fa fa-map-marker fa-fw xxlarge margin-right"></i> Adresse: 2 Av. Adolphe Chauvin, CY Tech, 95300 Pontoise</p>
                 <p><i class="fa fa-phone fa-fw xxlarge margin-right"></i> Téléphone: 06.52.57.19.95</p>
