@@ -77,7 +77,7 @@
                 <span class="jumbo hide-small">Votre formation, notre mission !</span><br>
                 <span class="xxlarge hide-large hide-medium">Le sport à portée de doigts !</span><br>
                 <h3>Notre mission :</h3>
-                <h3>Former les étudiants de CY Tech sur des thématiques transversesau monde de l’entreprise !</h3><br><br>
+                <h3>Former les étudiants de CY Tech sur des thématiques transverses au monde de l’entreprise !</h3><br><br>
                 <div class="col m5 hide-small hide-medium" style="margin-right:1000px; margin-bottom:50px">
                     <span class="large">Les ingénieurs de demain se doivent d’être toujours plus complets à la sortie de leur cursus de formation. Pour répondre à cet enjeu d’avenir, la CY Training Association forme les étudiants de CY Tech sur des thématiques complémentaires à leur cursus. De la mise en place d’une stratégie commerciale, au pilotage d’un budget en passant par le suivi RH, les étudiants développent de nouvelles compétences et renforcent ainsi leur employabilité.</span>
                 </div>
