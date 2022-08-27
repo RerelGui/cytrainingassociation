@@ -73,7 +73,7 @@
 
         <!-- Entête avec image en plein écran -->
         <header class="bgimg-1 display-container" id="home">
-            <div class="display-left text-white" style="padding:48px">
+            <div class="display-left text-white" style="padding:48px;padding-top:80px">
                 <span class="jumbo hide-small">Votre formation, notre mission !</span><br>
                 <span class="xxlarge hide-large hide-medium">Le sport à portée de doigts !</span><br>
                 <h3>Notre mission :</h3>
