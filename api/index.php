@@ -29,7 +29,7 @@
         .bgimg-1 {
             background-position: center;
             background-size: cover;
-            background-image: url("../images/photo_filtre2.png");
+            background-image: url("../images/filtre.png");
             min-height: 100%;
         }
         .bar .button {
